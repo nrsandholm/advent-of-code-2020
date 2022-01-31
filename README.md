@@ -1,3 +1,3 @@
 # advent-of-code-2020
 
-Contains Advent of Code 2021 (https://adventofcode.com/2021) puzzle solutions.
+Contains Advent of Code 2020 (https://adventofcode.com/2020) puzzle solutions.
